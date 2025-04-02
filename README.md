@@ -5,3 +5,19 @@ Cyow AI Agent 是由远大芯数字科技有限公司开发团队主导构建的
 ## CyowGlass
 CyowGlass是一个AI伴侣项目，与传统的AI伴侣不同，它旨在提供更加私密安全的角色扮演，用户可定制自己的AI伴侣，并投影在自己的房间。让人类和AI住在一起，让科幻场景走进现实。
 
+
+
+
+## Donate
+Thank you for your interest in supporting MicroRealEstate. Every contribution will help us pay our ongoing maintenance and development costs 🙏
+
+## Contact
+X:
+
+## License
+The project is licensed under the MIT License. To view the license details, please follow the link below:
+
+MIT License
+
+Feel free to review the license terms and conditions to understand the permissions and restrictions associated with the project.
+
