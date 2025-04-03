@@ -63,19 +63,7 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 - The current program interactive use of speaking Chinese can achieve the best experience effect.
 
 
-
-
-
-
-
-
-
-
-
-## Donate
-Thank you for your interest in supporting cyow. Every contribution will help us pay our ongoing maintenance and development costs 🙏
-
 ## Contact
-X:
+
 
 
