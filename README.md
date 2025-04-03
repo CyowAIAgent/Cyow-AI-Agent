@@ -19,6 +19,29 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 - Bluetooth speaker: Hanqin USB speaker
 - Network: Direct data cable connection
 
+### 2. Software
+#### 2.1 Visual
+- Client interface: Unity
+- 2D characters: Live2D production (users can find tutorials or use Lily)
+
+#### 2.2 Voice
+- ASR: Baidu Voice (API)
+- TTS: Fish Audio (API)
+
+#### 2.3 AI model
+- Local deployment: Deepseek-LLM-7B-Chat
+- Model training method: SFT
+- Model training data set source (6000 data):
+  - Muxue (Chinese) training set - role play (https://www.modelscope.cn/datasets/Moemuu/Muice-Dataset) Manually modify and review answers for questions (1500 data)
+  - Dialogue-Encyclopedia (Chinese) training set (https://www.modelscope.cn/datasets/qiaojiedongfeng/qiaojiedongfeng) Manually modify and review answers for questions (1500 data)
+  - Deepseek-V3 official website, manually modify and review multi-round dialogue data sets that meet the requirements through prompt (3000 data)
+
+
+
+
+
+
+
 
 
 
