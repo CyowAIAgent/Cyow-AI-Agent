@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_zh-CN.md)
+
 # CyowGlass
 CyowGlass is an AI companion project. Different from traditional AI companions, it uses holographic projection technology and intelligent AI companion system to provide more private and safe role-playing. Users can customize their own AI companions and project them in their own rooms. It allows humans and AI to live together and brings science fiction scenes into reality.
 
@@ -59,7 +61,6 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 - Debate mode: wake up word "start debate", the user and Lily and Ray debate on the topic.
 - End of use: wake up word "end conversation, bye, bye", the program exits.
 - The current program interactive use of speaking Chinese can achieve the best experience effect.
-
 
 
 
