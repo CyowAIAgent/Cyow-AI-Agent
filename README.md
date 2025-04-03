@@ -73,7 +73,7 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 
 
 ## Donate
-Thank you for your interest in supporting MicroRealEstate. Every contribution will help us pay our ongoing maintenance and development costs 🙏
+Thank you for your interest in supporting cyow. Every contribution will help us pay our ongoing maintenance and development costs 🙏
 
 ## Contact
 X:
