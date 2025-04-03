@@ -64,6 +64,7 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 
 
 ## Contact
-
+- http://www.htrworld.com/
+- Youtube：https://www.youtube.com/@AI-R12
 
 
