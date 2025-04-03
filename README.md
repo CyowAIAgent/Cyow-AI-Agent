@@ -1,9 +1,5 @@
-# Cyow-AI-Agent
-Cyow AI Agent 是由远大芯数字科技有限公司开发团队主导构建的一款开源AI自动化框架。它致力于通过高度模块化、可扩展的设计，为用户提供灵活、高效的智能代理能力，帮助个体和组织显著提升重复性任务的处理效率。Cyow的目标是打造一个真正开源、开放、可定制的AIAgent平台，推动AI在办公自动化、智能客服、数据处理、知识
-问答、情感伴侣等场景的落地应用，让AI成为每个人的得力助手，为每一个人提供情感陪伴。
-
-## CyowGlass
-CyowGlass是一个AI伴侣项目，与传统的AI伴侣不同，它旨在提供更加私密安全的角色扮演，用户可定制自己的AI伴侣，并投影在自己的房间。让人类和AI住在一起，让科幻场景走进现实。
+# CyowGlass
+CyowGlass is an AI companion project. Different from traditional AI companions, it uses holographic projection technology and intelligent AI companion system to provide more private and safe role-playing. Users can customize their own AI companions and project them in their own rooms. It allows humans and AI to live together and brings science fiction scenes into reality.
 
 
 
