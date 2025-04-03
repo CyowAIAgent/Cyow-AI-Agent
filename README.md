@@ -14,7 +14,7 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 - Camera: SONY ILCE-7M3 FE3.5-5.6/28-70 (ultra-wide angle)
 - Computer:
   - ​**CPU**: AMD Ryzen 5 7600X 6-Core Processor (6 Cores)  
-  - ​**GPU**: NVIDIA GeForce RTX 4070 (16GB Memory)
+  - ​**GPU**: NVIDIA GeForce RTX 4090 (16GB Memory)
 - Wireless lavalier microphone: Good Shepherd Lavalier Mic
 - Bluetooth speaker: Hanqin USB speaker
 - Network: Direct data cable connection
@@ -35,6 +35,20 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
   - Muxue (Chinese) training set - role play (https://www.modelscope.cn/datasets/Moemuu/Muice-Dataset) Manually modify and review answers for questions (1500 data)
   - Dialogue-Encyclopedia (Chinese) training set (https://www.modelscope.cn/datasets/qiaojiedongfeng/qiaojiedongfeng) Manually modify and review answers for questions (1500 data)
   - Deepseek-V3 official website, manually modify and review multi-round dialogue data sets that meet the requirements through prompt (3000 data)
+
+#### 2.4 Backend environment
+- Linux virtual machine: ubuntu 22.04.5
+- ragflowv0.15.1-slim
+- mysql: 8.0.39
+- es: 8.11.3
+- redis (valkey): 8
+- minio: RELEASE.2023.12.20T01-00-02Z
+- docker: 24.0.2
+- docker-compose: 2.27.3
+
+
+
+
 
 
 
