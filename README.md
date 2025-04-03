@@ -22,7 +22,7 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 ### 2. Software
 #### 2.1 Visual
 - Client interface: Unity
-- 2D characters: Live2D production (users can find tutorials or use Lily)
+- 2D characters: Live2D production
 
 #### 2.2 Voice
 - ASR: Baidu Voice (API)
@@ -46,8 +46,19 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 - docker: 24.0.2
 - docker-compose: 2.27.3
 
+## Startup method
+- Hardware preparation: The projector and projection film are installed, and the live broadcast environment is deployed.
+- Software preparation: Download the entire project file (including Unity project files, backend server code, etc.), and the user downloads the chat model (Deepseek-LLM-7B-Chat)
+- Start the backend server: Open the running path A/B project file
+- Start the front-end interface: Open the running path A/B.exe run file (If you want to modify the project, you need to install Unityhub, install the Unity editor through unityhub, and open the A/B project file).
 
-
+## How to use
+- Chat mode: wake up word "hello", the user and Lily start a deep and affectionate chat.
+- Live mode: wake up word "start live", the user and Lily chat live, Lily can also reply to the live barrage.
+  - Live link: Cyow Lily projects the triangular window - Sony camera shoots the triangular window and the user's chat screen - Sony camera connects to the B station live platform through a data cable - the user chats with Lily - the front-end voice broadcasts out.
+- Debate mode: wake up word "start debate", the user and Lily and Ray debate on the topic.
+- End of use: wake up word "end conversation, bye, bye", the program exits.
+- The current program interactive use of speaking Chinese can achieve the best experience effect.
 
 
 
