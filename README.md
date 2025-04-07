@@ -3,6 +3,9 @@
 # CyowGlass
 CyowGlass is an AI companion project. Different from traditional AI companions, it uses holographic projection technology and intelligent AI companion system to provide more private and safe role-playing. Users can customize their own AI companions and project them in their own rooms. It allows humans and AI to live together and brings science fiction scenes into reality.
 
+![97f70c148d19fa430b1bfc3327f644ec](https://github.com/user-attachments/assets/fd15f848-6e6c-4562-b558-1f39481e85bc)
+
+
 ## Tools
 ### 1. Hardware
 #### 1.1 Projection
