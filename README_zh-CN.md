@@ -1,6 +1,9 @@
 # CyowGlass
 CyowGlass是一个AI伴侣项目，与传统的AI伴侣不同，全息投影技术加智能AI伴侣系统，它旨在提供更加私密安全的角色扮演，用户可定制自己的AI伴侣，并投影在自己的房间。让人类和AI住在一起，让科幻场景走进现实。
 
+![88cf26715b98db939e74c1eba61e32a9](https://github.com/user-attachments/assets/66380220-d136-400c-bf22-eeb561830aa7)
+![97f70c148d19fa430b1bfc3327f644ec](https://github.com/user-attachments/assets/fd15f848-6e6c-4562-b558-1f39481e85bc)
+
 ## 工具
 ### 1. 硬件
 #### 1.1 投影
