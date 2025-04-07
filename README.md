@@ -5,8 +5,6 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 
 ![88cf26715b98db939e74c1eba61e32a9](https://github.com/user-attachments/assets/66380220-d136-400c-bf22-eeb561830aa7)
 ![97f70c148d19fa430b1bfc3327f644ec](https://github.com/user-attachments/assets/fd15f848-6e6c-4562-b558-1f39481e85bc)
-![f4e7db3348a34e3a3d7e552e90ec174e](https://github.com/user-attachments/assets/7f1a0425-f62e-4228-a390-f11265964098)
-![67ee2426368cafc31c1561dfcf0fb28b](https://github.com/user-attachments/assets/8241ee84-45bc-4d2d-b123-8316cca02c0b)
 
 
 ## Tools
@@ -67,7 +65,9 @@ CyowGlass is an AI companion project. Different from traditional AI companions, 
 - Debate mode: wake up word "start debate", the user and Lily and Ray debate on the topic.
 - End of use: wake up word "end conversation, bye, bye", the program exits.
 - The current program interactive use of speaking Chinese can achieve the best experience effect.
-
+  
+![f4e7db3348a34e3a3d7e552e90ec174e](https://github.com/user-attachments/assets/7f1a0425-f62e-4228-a390-f11265964098)
+![67ee2426368cafc31c1561dfcf0fb28b](https://github.com/user-attachments/assets/8241ee84-45bc-4d2d-b123-8316cca02c0b)
 
 ## Contact
 - http://www.htrworld.com/
