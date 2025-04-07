@@ -65,3 +65,9 @@ CyowGlass是一个AI伴侣项目，与传统的AI伴侣不同，全息投影技�
 
 ![f4e7db3348a34e3a3d7e552e90ec174e](https://github.com/user-attachments/assets/7f1a0425-f62e-4228-a390-f11265964098)
 ![67ee2426368cafc31c1561dfcf0fb28b](https://github.com/user-attachments/assets/8241ee84-45bc-4d2d-b123-8316cca02c0b)
+
+## 联系
+- http://www.htrworld.com/
+- Youtube：https://www.youtube.com/@AI-R12
+
+
